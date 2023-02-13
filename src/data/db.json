@@ -1,0 +1,34 @@
+{
+  "Blogs": [
+    {
+      "title": "I love Rice  no be small",
+      "content": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, delectus provident harum voluptatibus quia, adipisci illum dignissimos enim corrupti libero debitis eum quaerat. Placeat velit nulla, sequi eos earum, atque omnis alias suscipit modi cumque a vitae, repudiandae nisi beatae saepe ex exercitationem unde laudantium ullam error at. Amet, molestias!",
+      "author": "Mr. Amadi",
+      "id": 2
+    },
+    {
+      "title": "I love Beans like mad",
+      "content": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, delectus provident harum voluptatibus quia, adipisci illum dignissimos enim corrupti libero debitis eum quaerat. Placeat velit nulla, sequi eos earum, atque omnis alias suscipit modi cumque a vitae, repudiandae nisi beatae saepe ex exercitationem unde laudantium ullam error at. Amet, molestias!",
+      "author": "Mr. James",
+      "id": 3
+    },
+    {
+      "title": "Victory is sure",
+      "author": "Mr. Martins",
+      "content": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi eos architecto pariatur tempore? Distinctio magnam temporibus blanditiis laboriosam, est iure nihil nisi accusamus nostrum. Fugiat repudiandae nobis commodi voluptas assumenda veniam, inventore laborum delectus quas deleniti dolores eveniet omnis doloribus dolor ipsum et recusandae provident dicta, debitis ullam! Harum asperiores quisquam dolores saepe molestiae iste quas fuga fugiat? At, deleniti aliquid qui inventore ipsum expedita facere laudantium quod fuga possimus ipsa neque magni enim tenetur consectetur, quos odit facilis dolorem esse. Sit blanditiis labore provident magni necessitatibus corporis dicta itaque iste inventore id voluptates vitae dignissimos dolore, soluta ducimus eos.",
+      "id": 12
+    },
+    {
+      "title": "Victory is sure",
+      "author": "Mr. Amadi",
+      "content": "lsidosidosidsodiosidsoi",
+      "id": 16
+    },
+    {
+      "title": "How to earn money online",
+      "author": "Mr. Chile",
+      "content": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi eos architecto pariatur tempore? Distinctio magnam temporibus blanditiis laboriosam, est iure nihil nisi accusamus nostrum. Fugiat repudiandae nobis commodi voluptas assumenda veniam, inventore laborum delectus quas deleniti dolores eveniet omnis doloribus dolor ipsum et recusandae provident dicta, debitis ullam! Harum asperiores quisquam dolores saepe molestiae iste quas fuga fugiat? At, deleniti aliquid qui inventore ipsum expedita facere laudantium quod fuga possimus ipsa neque magni enim tenetur consectetur, quos odit facilis dolorem esse. Sit blanditiis labore provident magni necessitatibus corporis dicta itaque iste inventore id voluptates vitae dignissimos dolore, soluta ducimus eos.",
+      "id": 17
+    }
+  ]
+}

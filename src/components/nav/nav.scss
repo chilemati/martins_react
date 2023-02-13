@@ -1,0 +1,40 @@
+//? declearing sass variable
+$nav_bg: blue;
+$nav_fs: 2vw;
+
+//? declearing a mixim. a mixim is like a js function
+@mixin flex {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav{
+    padding: 0.5rem 2rem;
+    background-color: $nav_bg;
+
+    ol{
+        list-style-type: none;
+        @include flex();
+        color: white;
+        font-size: $nav_fs;
+        font-weight: bold;
+        text-transform: capitalize;
+        li{
+            padding: 0.5rem 1rem;
+            box-shadow: 4px 4px 20px rgb(0, 0, 0,0.2);
+            border-radius: 9px;
+            a{
+                text-decoration: none;
+                color: white;
+            }
+            &:hover{
+                background-color: rgb(78, 128, 70);
+                color: white;
+            }
+        }
+    }
+
+}
+
